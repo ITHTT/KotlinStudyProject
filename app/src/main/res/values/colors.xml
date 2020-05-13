@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorText">#333333</color>
+    <color name="colorHint">#666666</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="success">#5791f1</color>
+    <color name="grey">#f4f4f4</color>
+
+    <color name="tag_vod">#e55e55</color>
+    <color name="tag_live">#78a1d3</color>
+    <color name="tag_begin">#c9b38b</color>
+    <color name="tag_activity">#96cc94</color>
+    <color name="tag_unenable">#b5b5b5</color>
+    <color name="tag_venue">#a57bc6</color>
+    <color name="tag_server">#e39f5a</color>
+    <color name="tag_app">#cb9092</color>
+    <color name="tag_living">#4e7fb9</color>
+    <color name="tag_news">#a47ac6</color>
+</resources>

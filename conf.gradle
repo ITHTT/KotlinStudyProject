@@ -1,0 +1,14 @@
+ext{
+
+    android=[
+
+    ]
+
+    androidx=[
+
+    ]
+
+    lib_third=[
+
+    ]
+}

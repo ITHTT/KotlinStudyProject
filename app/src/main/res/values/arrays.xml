@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_menus">
+        <item>共享直播</item>
+        <item>视听空间</item>
+        <item>预约活动</item>
+        <item>场馆导航</item>
+        <item>数字资源</item>
+        <item>18届群星奖</item>
+        <item>标准规范</item>
+        <item>服务点单</item>
+        <item>特色应用</item>
+        <item>在线培训</item>
+        <item>短视频</item>
+    </string-array>
+</resources>

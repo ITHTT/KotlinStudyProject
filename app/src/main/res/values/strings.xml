@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinStudyProject</string>
+
+    <string name="register_details">\t\t亲爱的用户，国家公共文化云依照相关法规要求进行实名制管理、履行反洗钱职责和采取风险防范措施。为了您可以正常使用国家公共文化云的服务，您的身份信息、联系方式、交易信息需要被依法收集并使用。\n国家公共文化云将严格保护您的个人信息，确保信息安全，具体详见《国家公共文化云用户服务协议及隐私政策》。\n您在点击同意下列协议前，请您务必审慎阅读，并充分理解协议条款内容。</string>
+    <string name="register_agreement">《国家公共文化云用户服务协议及隐私政策》</string>
+
+</resources>
